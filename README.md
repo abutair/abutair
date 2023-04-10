@@ -7,8 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <h3>Frameworks</h3>
 
@@ -25,6 +25,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%234ea94b.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![POSTSQL](https://img.shields.io/badge/postsql-%234ea94b.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%234ea94b.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 <h3>Operating Systems</h3>
 
