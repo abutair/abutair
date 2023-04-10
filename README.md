@@ -4,17 +4,19 @@
 
 <h3>Languages</h3>
 
-![Python](https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![c++](https://img.shields.io/badge/c++-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h3>Frameworks</h3>
 
-![next.js](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![VUE.JS](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 <h3>Databases</h3>
 
@@ -28,6 +30,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 
 
 <h3>Servers</h3>
